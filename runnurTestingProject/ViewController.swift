@@ -15,6 +15,10 @@ class ViewController: UIViewController
     {
         
     }
+    func version1()
+    {
+        
+    }
        override func viewDidLoad()
     {
         super.viewDidLoad()
